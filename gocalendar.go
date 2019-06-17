@@ -1,5 +1,4 @@
 // Package gocalendar provides functionality for working with calendar in Go.
-
 package gocalendar
 
 import (
